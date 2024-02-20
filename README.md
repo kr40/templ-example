@@ -1,2 +1,2 @@
-#Templ Example
+# Templ Example
 - A sample `templ` application
